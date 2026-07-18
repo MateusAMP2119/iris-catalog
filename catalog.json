@@ -6,7 +6,7 @@
       "description": "USGS earthquake feed into demo.quakes with a derived report lane (turn-protocol speakers)",
       "tags": ["demo", "starter", "python"],
       "path": "packs/quake-monitor.tar.gz",
-      "sha256": "852c8441ac9139bc8e34398aacbc682c231588296be992cba4d359f4f16aeca2",
+      "sha256": "57e6031a9654be5b62983cb4ba45784183e0cce8bac99a5520e36c591490233b",
       "requires": "v0.5.5"
     },
     {
@@ -14,7 +14,7 @@
       "description": "A lane that fails on purpose: watch dead letters, replay, and drain from iris ps",
       "tags": ["demo", "deadletter", "sh"],
       "path": "packs/dlq-demo.tar.gz",
-      "sha256": "691974d0602b237c106f59e529786c72cee29abb65273086b12feb40332c17ad",
+      "sha256": "d89e7027daad2eeb7175bdbefd7e1c986682f4165ab6ba2600a55232f282ee24",
       "requires": "v0.5.5"
     }
   ]
